@@ -1,6 +1,8 @@
+
 <PREFERENCES>
-  <MOVIE>1+1</MOVIE>
-  <FOOD>fried eggs on a substrate of vegetables</FOOD>
-  <SEASON>summer</SEASON>
-  <COUNTRY>2000</COUNTRY>
+  <field name="favorite movie">1+1(Intouchables)</field>
+  <field name="favorite food">fried eggs on a substrate of vegetables</field>
+  <field name="favorite season">summer</field>
+  <field name="favorite season">summer</field>
+  <field name="country I want to visit">South Korea</field>
 </PREFERENCES>

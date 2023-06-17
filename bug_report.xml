@@ -1,19 +1,29 @@
 
 <BUGREPORT>
-  <PRECONDITION>Откройте: https://academybugs.com/find-bugs/</PRECONDITION>
-  <COMPONENT>Корзина товаров</COMPONENT>
-  <ENVIRONMENT>ОС: Windows 10 Pro Браузер: Chrome (версия 102.0.5005.63)</ENVIRONMENT>
-  <SUMMARY>В корзине нельзя изменить количество выбранных товаров на более "2" шт.</SUMMARY>
+  <field name="1">Precondition</field>
+  <field name="2">Component/Version</field>
+  <field name="3">Еnvironment</field>
+  <field name="4">Summary</field>
+  <field name="5">Steps to Reproduce</field>
+  <field name="6">Expected Result</field>
+  <field name="7">Result</field>
+  <field name="8">Severity</field>
+  <field name="9">Priority</field>
+  <field name="10">Status</field>
+  <field name="11">Author</field>
 </BUGREPORT>
-  
-    "Steps to Reproduce": { 
-        "1" : "Добавить один или несколько товаров в корзину",
-        "2" : "Нажать на ссылку «Просмотреть корзину» в верхней части страницы",
-        "3" : "Нажать на слайдер  '+'  и установите количество товаров 3, или более",
-        "4" : "Нажать на кнопку 'UPDATE'"},
-    "Expected Result": "Количество товара в корзине можно изменить на большее количество единиц, чем '2' шт.",
-    "Result": "После изменения количества товара на большее количество, чем 2 шт., при нажатии на кнопку 'UPDAT', в корзине всегда остается 2 шт. товара",
-    "Severity": "Critical",
-    "Priority": "High",
-    "Status": "New",
-    "Author": "Zhabrova Irina"
+
+<BUGREPORT2>
+  <1>Precondition</1>
+  <2>Component/Version</2>
+  <3>Еnvironment</3>
+  <4>Summary</4>
+  <5>Steps to Reproduce</5>
+  <6>Expected Result</6>
+  <7>Result</7>
+  <8>Severity</8>
+  <9>Priority</9>
+  <10>Author</10>
+  <11>Status</11>
+  <12>Responsible</12>
+</BUGREPORT2>
